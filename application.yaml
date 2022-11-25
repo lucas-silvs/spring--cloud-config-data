@@ -1,2 +1,2 @@
 config:
-  teste: config na raiz
+  teste: config na raiz que será exportada por todos os projetos que utilizam o Config Server
